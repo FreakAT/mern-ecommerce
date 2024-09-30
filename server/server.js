@@ -28,7 +28,7 @@ const PORT = process.env.PORT || 3000;
 app.use(
 	cors({
 		origin:
-			"https://mern-ecommerce-q66noje43-harioms-projects-bbd70ef8.vercel.app/",
+			"https://mern-ecommerce-75hz51v2n-harioms-projects-bbd70ef8.vercel.app/",
 		methods: ["GET", "POST", "DELETE", "PUT"],
 		allowedHeaders: [
 			"Content-Type",

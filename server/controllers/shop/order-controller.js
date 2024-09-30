@@ -27,9 +27,9 @@ const createOrder = async (req, res) => {
 			},
 			redirect_urls: {
 				return_url:
-					"https://mern-ecommerce-q66noje43-harioms-projects-bbd70ef8.vercel.app/shop/paypal-return",
+					"https://mern-ecommerce-75hz51v2n-harioms-projects-bbd70ef8.vercel.app/shop/paypal-return",
 				cancel_url:
-					"https://mern-ecommerce-q66noje43-harioms-projects-bbd70ef8.vercel.app/}/shop/paypal-cancel",
+					"https://mern-ecommerce-75hz51v2n-harioms-projects-bbd70ef8.vercel.app/shop/paypal-cancel",
 			},
 			transactions: [
 				{
